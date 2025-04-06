@@ -1,5 +1,5 @@
 # python-decision-tree-generator
-generate simple decision tree
+generate simple decision tree if the code only contains if, else, return statement
 
 I wrote this to finish the f**king Algorithm Design and Analysis homework
 
